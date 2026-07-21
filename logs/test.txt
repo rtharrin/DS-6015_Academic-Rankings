@@ -1,0 +1,1 @@
+Text file to initialize directory in git structure

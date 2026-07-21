@@ -1,0 +1,4 @@
+2026-07-20 20:35:44,255 INFO __main__: Model run started
+2026-07-20 20:36:09,265 INFO __main__: Model run started
+2026-07-20 20:36:10,604 INFO __main__: Model run finished in 1.34s (352 schools scored)
+2026-07-20 20:36:10,605 INFO __main__: University of Virginia predicted score: 82.12 | predicted rank: 25

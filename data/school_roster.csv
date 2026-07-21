@@ -1,0 +1,435 @@
+rank_year,ipeds_id,published_rank,school
+2026,186131,1,Princeton University
+2026,166683,2,Massachusetts Institute of Technology
+2026,166027,3,Harvard University
+2026,243744,4,Stanford University
+2026,130794,4,Yale University
+2026,144050,6,University of Chicago
+2026,147767,7,Northwestern University
+2026,162928,7,Johns Hopkins University
+2026,198419,7,Duke University
+2026,215062,7,University of Pennsylvania
+2026,110404,11,California Institute of Technology
+2026,190415,12,Cornell University
+2026,182670,13,Dartmouth College
+2026,217156,13,Brown University
+2026,110635,15,"University of California, Berkeley"
+2026,190150,15,Columbia University
+2026,110662,17,"University of California, Los Angeles"
+2026,221999,17,Vanderbilt University
+2026,227757,17,Rice University
+2026,152080,20,University of Notre Dame
+2026,179867,20,Washington University in St. Louis
+2026,211440,20,Carnegie Mellon University
+2026,170976,20,University of Michigan--Ann Arbor
+2026,131496,24,Georgetown University
+2026,139658,24,Emory University
+2026,199120,26,University of North Carolina--Chapel Hill
+2026,234076,26,University of Virginia
+2026,123961,28,University of Southern California
+2026,110680,29,"University of California, San Diego"
+2026,134130,30,University of Florida
+2026,228778,30,The University of Texas--Austin
+2026,110644,32,"University of California, Davis"
+2026,110653,32,"University of California, Irvine"
+2026,139755,32,Georgia Institute of Technology
+2026,193900,32,New York University
+2026,145637,36,University of Illinois Urbana-Champaign
+2026,164924,36,Boston College
+2026,168148,36,Tufts University
+2026,240444,36,University of Wisconsin--Madison
+2026,110705,40,"University of California, Santa Barbara"
+2026,204796,41,The Ohio State University
+2026,163286,42,"University of Maryland, College Park"
+2026,164988,42,Boston University
+2026,236948,42,University of Washington
+2026,186380,42,Rutgers University--New Brunswick
+2026,139959,46,University of Georgia
+2026,243780,46,Purdue University--Main Campus
+2026,167358,46,Northeastern University
+2026,195030,46,University of Rochester
+2026,213543,46,Lehigh University
+2026,228723,51,Texas A&M University
+2026,134097,51,Florida State University
+2026,199847,51,Wake Forest University
+2026,201645,51,Case Western Reserve University
+2026,231624,51,William & Mary
+2026,233921,51,Virginia Tech
+2026,216597,57,Villanova University
+2026,445188,57,"University of California, Merced"
+2026,122931,59,Santa Clara University
+2026,131469,59,George Washington University
+2026,196097,59,Stony Brook University--SUNY
+2026,174066,59,University of Minnesota--Twin Cities
+2026,214777,59,The Pennsylvania State University--University Park
+2026,135726,64,University of Miami
+2026,166629,64,University of Massachusetts--Amherst
+2026,171100,64,Michigan State University
+2026,194824,64,Rensselaer Polytechnic Institute
+2026,199193,64,North Carolina State University
+2026,160755,69,Tulane University of Louisiana
+2026,165015,69,Brandeis University
+2026,129020,69,University of Connecticut
+2026,215293,69,University of Pittsburgh
+2026,151351,73,Indiana University--Bloomington
+2026,196079,73,Binghamton University--SUNY
+2026,110671,75,"University of California, Riverside"
+2026,186399,75,Rutgers University--Newark
+2026,196413,75,Syracuse University
+2026,217882,75,Clemson University
+2026,196088,75,University at Buffalo--SUNY
+2026,126775,80,Colorado School of Mines
+2026,185828,80,New Jersey Institute of Technology
+2026,186867,80,Stevens Institute of Technology
+2026,212054,80,Drexel University
+2026,121150,84,Pepperdine University
+2026,145600,84,University of Illinois Chicago
+2026,168421,84,Worcester Polytechnic Institute
+2026,197708,84,Yeshiva University
+2026,110714,88,"University of California, Santa Cruz"
+2026,130943,88,University of Delaware
+2026,131159,88,American University
+2026,131520,88,Howard University
+2026,137351,88,University of South Florida
+2026,195003,88,Rochester Institute of Technology
+2026,228246,88,Southern Methodist University
+2026,239105,88,Marquette University
+2026,223232,88,Baylor University
+2026,126614,97,University of Colorado Boulder
+2026,191241,97,Fordham University
+2026,228875,97,Texas Christian University
+2026,186371,97,Rutgers University--Camden
+2026,133951,97,Florida International University
+2026,100858,102,Auburn University
+2026,117946,102,Loyola Marymount University
+2026,153658,102,University of Iowa
+2026,179159,102,Saint Louis University
+2026,178396,102,University of Missouri
+2026,216339,102,Temple University
+2026,221759,102,University of Tennessee--Knoxville
+2026,235316,102,Gonzaga University
+2026,122436,110,University of San Diego
+2026,111948,110,Chapman University
+2026,122612,110,University of San Francisco
+2026,207500,110,The University of Oklahoma
+2026,209551,110,University of Oregon
+2026,230038,110,Brigham Young University
+2026,228787,110,The University of Texas--Dallas
+2026,104151,117,Arizona State University
+2026,122409,117,San Diego State University
+2026,127060,117,University of Denver
+2026,145725,117,Illinois Institute of Technology
+2026,153603,117,Iowa State University of Science and Technology
+2026,181002,117,Creighton University
+2026,183044,117,University of New Hampshire
+2026,198516,117,Elon University
+2026,232186,117,George Mason University
+2026,132903,117,University of Central Florida
+2026,104179,127,University of Arizona
+2026,110583,127,"California State University, Long Beach"
+2026,163268,127,University of Maryland Baltimore County
+2026,196060,127,University at Albany--SUNY
+2026,218663,127,University of South Carolina
+2026,100663,132,University of Alabama at Birmingham
+2026,216366,132,Thomas Jefferson University
+2026,146719,132,Loyola University Chicago
+2026,165334,132,Clark University
+2026,190567,132,CUNY--City College
+2026,225511,132,University of Houston
+2026,231174,132,University of Vermont
+2026,110565,139,California State University--Fullerton
+2026,120883,139,University of the Pacific
+2026,129242,139,Fairfield University
+2026,234030,139,Virginia Commonwealth University
+2026,196592,143,Touro University
+2026,155317,143,University of Kansas
+2026,157085,143,University of Kentucky
+2026,190044,143,Clarkson University
+2026,199139,143,University of North Carolina at Charlotte
+2026,202480,143,University of Dayton
+2026,209542,143,Oregon State University
+2026,204024,143,Miami University--Oxford
+2026,126818,151,Colorado State University
+2026,166513,151,University of Massachusetts--Lowell
+2026,195809,151,St. John's University (NY)
+2026,217484,151,University of Rhode Island
+2026,230764,151,University of Utah
+2026,232423,151,James Madison University
+2026,236595,151,Seattle University
+2026,155399,158,Kansas State University
+2026,157289,158,University of Louisville
+2026,171128,158,Michigan Technological University
+2026,174914,158,University of St. Thomas (MN)
+2026,181464,158,University of Nebraska -- Lincoln
+2026,185590,158,Montclair State University
+2026,186584,158,Seton Hall University
+2026,196103,158,SUNY College of Environmental Science and Forestry
+2026,201885,158,University of Cincinnati
+2026,207971,158,University of Tulsa
+2026,186876,158,Stockton University
+2026,100751,169,The University of Alabama
+2026,131283,169,The Catholic University of America
+2026,133650,169,Florida A&M University
+2026,140447,169,Mercer University
+2026,141574,169,University of Hawaii at Manoa
+2026,144740,169,DePaul University
+2026,159391,169,Louisiana State University--Baton Rouge
+2026,176017,169,University of Mississippi
+2026,184782,169,Rowan University
+2026,212106,169,Duquesne University
+2026,102049,179,Samford University
+2026,110510,179,California State University--San Bernardino
+2026,130226,179,Quinnipiac University
+2026,172644,179,Wayne State University
+2026,106397,183,University of Arkansas
+2026,110556,183,California State University--Fresno
+2026,133669,183,Florida Atlantic University
+2026,142285,183,University of Idaho
+2026,143358,183,Bradley University
+2026,153269,183,Drake University
+2026,167783,183,Simmons University
+2026,169716,183,University of Detroit Mercy
+2026,191649,183,Hofstra University
+2026,151111,192,Indiana University Indianapolis
+2026,178411,192,Missouri University of Science and Technology
+2026,182290,192,University of Nevada--Reno
+2026,195720,192,St. John Fisher University
+2026,198464,192,East Carolina University
+2026,236939,192,Washington State University
+2026,131450,198,Gallaudet University
+2026,139940,198,Georgia State University
+2026,152600,198,Valparaiso University
+2026,188429,198,Adelphi University
+2026,199148,198,University of North Carolina--Greensboro
+2026,199218,198,University of North Carolina--Wilmington
+2026,204857,198,Ohio University
+2026,207388,198,Oklahoma State University
+2026,229115,198,Texas Tech University
+2026,227863,198,University of St. Thomas (TX)
+2026,122597,208,San Francisco State University
+2026,176080,208,Mississippi State University
+2026,206622,208,Xavier University
+2026,215655,208,Robert Morris University
+2026,227216,208,University of North Texas
+2026,229027,213,The University of Texas--San Antonio
+2026,117140,213,University of La Verne
+2026,150136,213,Ball State University
+2026,193654,213,The New School
+2026,166638,213,University of Massachusetts--Boston
+2026,195128,213,Russell Sage College
+2026,211556,213,Chatham University
+2026,219709,213,Belmont University
+2026,227368,213,The University of Texas--Rio Grande Valley
+2026,145813,222,Illinois State University
+2026,159656,222,Loyola University New Orleans
+2026,175005,222,St. Catherine University
+2026,188030,222,New Mexico State University
+2026,209807,222,Portland State University
+2026,219976,222,Lipscomb University
+2026,228769,222,The University of Texas--Arlington
+2026,238032,222,West Virginia University
+2026,240727,222,University of Wyoming
+2026,136172,222,University of North Florida
+2026,133881,232,Florida Institute of Technology
+2026,178402,232,University of Missouri--Kansas City
+2026,182281,232,University of Nevada--Las Vegas
+2026,199102,232,North Carolina Agricultural and Technical State University
+2026,199999,232,Winston-Salem State University
+2026,203517,232,Kent State University
+2026,209612,232,Pacific University
+2026,126562,232,University of Colorado Denver
+2026,173160,232,Bethel University (MN)
+2026,200332,232,North Dakota State University
+2026,187985,242,University of New Mexico
+2026,100706,242,University of Alabama at Huntsville
+2026,105330,242,Northern Arizona University
+2026,110097,242,Biola University
+2026,130253,242,Sacred Heart University
+2026,167987,242,University of Massachusetts Dartmouth
+2026,168740,242,Andrews University
+2026,170082,242,Grand Valley State University
+2026,178420,242,University of Missouri--St. Louis
+2026,190716,242,D'Youville University
+2026,200280,242,University of North Dakota
+2026,216764,242,West Chester University of Pennsylvania
+2026,221971,242,Union University
+2026,230728,242,Utah State University
+2026,236577,242,Seattle Pacific University
+2026,110574,257,California State University--East Bay
+2026,136215,257,Nova Southeastern University
+2026,151786,257,Marian University (IN)
+2026,152099,257,Oakland City University
+2026,161253,257,University of Maine
+2026,167899,257,Springfield College
+2026,168005,257,Suffolk University
+2026,200004,257,Western Carolina University
+2026,212601,257,Gannon University
+2026,213367,257,La Salle University
+2026,219356,257,South Dakota State University
+2026,220978,257,Middle Tennessee State University
+2026,221847,257,Tennessee Tech University
+2026,227881,257,Sam Houston State University
+2026,228459,257,Texas State University
+2026,228796,257,The University of Texas--El Paso
+2026,117751,273,The Master's University and Seminary
+2026,127918,273,Regis University
+2026,482149,273,Augusta University
+2026,156125,273,Wichita State University
+2026,194310,273,Pace University
+2026,214069,273,Misericordia University
+2026,212832,273,Gwynedd Mercy University
+2026,220862,273,University of Memphis
+2026,232265,273,Hampton University
+2026,232706,273,Marymount University
+2026,219471,283,University of South Dakota
+2026,109785,283,Azusa Pacific University
+2026,143118,283,Aurora University
+2026,168254,283,Western New England University
+2026,169248,283,Central Michigan University
+2026,174899,283,The College of St. Scholastica
+2026,174817,283,Saint Mary's University of Minnesota
+2026,178059,283,Maryville University of St. Louis
+2026,208822,283,George Fox University
+2026,210739,283,DeSales University
+2026,148584,293,University of St. Francis
+2026,161457,293,University of New England
+2026,172699,293,Western Michigan University
+2026,201441,293,Bowling Green State University
+2026,206084,293,The University of Toledo
+2026,225627,293,University of the Incarnate Word
+2026,232982,293,Old Dominion University
+2026,243221,293,University of Puerto Rico--Rio Piedras
+2026,107044,301,Harding University
+2026,129525,301,University of Hartford
+2026,142115,301,Boise State University
+2026,147703,301,Northern Illinois University
+2026,149222,301,Southern Illinois University--Carbondale
+2026,151263,301,University of Indianapolis
+2026,156286,301,Bellarmine University
+2026,166452,301,Lesley University
+2026,181394,301,University of Nebraska Omaha
+2026,190761,301,Dominican University New York
+2026,207458,301,Oklahoma City University
+2026,213011,301,Immaculata University
+2026,216852,301,Widener University
+2026,220075,301,East Tennessee State University
+2026,233541,301,Shenandoah University
+2026,238661,301,Edgewood University
+2026,240453,301,University of Wisconsin--Milwaukee
+2026,225414,318,University of Houston--Clear Lake
+2026,159647,318,Louisiana Tech University
+2026,171571,318,Oakland University
+2026,176372,318,University of Southern Mississippi
+2026,180461,318,Montana State University
+2026,185262,318,Kean University
+2026,112075,318,Concordia University Irvine
+2026,433660,318,Florida Gulf Coast University
+2026,215442,318,Point Park University
+2026,216931,318,Wilkes University
+2026,237525,318,Marshall University
+2026,228802,329,The University of Texas at Tyler
+2026,138947,329,Clark Atlanta University
+2026,156620,329,Eastern Kentucky University
+2026,487524,329,Husson University
+2026,163453,329,Morgan State University
+2026,169910,329,Ferris State University
+2026,141565,329,University of Hawaii at Hilo
+2026,213020,329,Indiana University of Pennsylvania
+2026,221740,329,University of Tennessee at Chattanooga
+2026,222178,329,Abilene Christian University
+2026,229179,329,Texas Woman's University
+2026,232609,329,University of Lynchburg
+2026,233277,329,Radford University
+2026,238616,329,Concordia University Wisconsin
+2026,127741,343,University of Northern Colorado
+2026,139931,343,Georgia Southern University
+2026,198136,343,Campbell University
+2026,200217,343,University of Mary
+2026,202134,343,Cleveland State University
+2026,204200,343,Mount St. Joseph University
+2026,220631,343,Lincoln Memorial University
+2026,227526,343,Prairie View A&M University
+2026,241410,343,Pontifical Catholic University of Puerto Rico--Ponce
+2026,106458,352,Arkansas State University
+2026,153126,352,Clarke University
+2026,154235,352,St. Ambrose University
+2026,210775,352,Alvernia University
+2026,228705,352,Texas A & M University-Kingsville
+2026,240365,352,University of Wisconsin-Oshkosh
+2026,159993,358,University of Louisiana at Monroe
+2026,176053,358,Mississippi College
+2026,179566,358,Missouri State University
+2026,190725,358,Daemen University
+2026,219806,358,Carson-Newman University
+2026,102094,363,University of South Alabama
+2026,106704,363,University of Central Arkansas
+2026,149231,363,Southern Illinois University Edwardsville
+2026,157951,363,Western Kentucky University
+2026,135081,363,Keiser University
+2026,175856,363,Jackson State University
+2026,180489,363,University of Montana
+2026,206437,363,Walsh University
+2026,221892,363,Trevecca Nazarene University
+2026,151324,363,Indiana State University
+2026,486840,373,Kennesaw State University
+2026,141334,373,University of West Georgia
+2026,160658,373,University of Louisiana at Lafayette
+2026,169798,373,Eastern Michigan University
+2026,176479,373,William Carey University
+2026,199962,373,Wingate University
+2026,202763,373,University of Findlay
+2026,231651,373,Regent University
+2026,200800,373,The University of Akron
+2026,228529,373,Tarleton State University
+2026,192448,373,Long Island University
+2026,106245,384,University of Arkansas--Little Rock
+2026,162061,384,Capitol Technology University
+2026,152992,384,Briar Cliff University
+2026,154688,384,Baker University
+2026,171146,384,University of Michigan--Flint
+2026,198561,384,Gardner-Webb University
+2026,224226,384,Dallas Baptist University
+2026,224554,384,East Texas A&M University
+2026,232672,384,Mary Baldwin University
+2026,136330,384,Palm Beach Atlantic University
+2026,157447,384,Northern Kentucky University
+2026,232557,395,Liberty University
+2026,157535,395,University of Pikeville
+2026,159939,395,University of New Orleans
+2026,179964,395,William Woods University
+2026,225247,395,Hardin-Simmons University
+2026,226471,395,University of Mary Hardin-Baylor
+2026,199759,395,Judson College at Southeastern
+2026,241395,395,Pontifical Catholic University of Puerto Rico--Arecibo
+2026,132471,403,Barry University
+2026,163338,403,University of Maryland Eastern Shore
+2026,237312,403,University of Charleston
+2026,128744,406,University of Bridgeport
+2026,156541,406,University of the Cumberlands
+2026,221838,406,Tennessee State University
+2026,227331,406,Our Lady of the Lake University
+2026,126580,406,University of Colorado--Colorado Springs
+2026,102614,411,University of Alaska Fairbanks
+2026,137476,411,St. Thomas University
+2026,141264,411,Valdosta State University
+2026,175421,411,Belhaven University
+2026,224147,415,Texas A&M University--Corpus Christi
+2026,147536,415,National Louis University
+2026,148487,415,Roosevelt University
+2026,164447,415,American International College
+2026,206604,415,Wright State University
+2026,137032,420,Saint Leo University
+2026,137564,421,Southeastern University
+2026,139199,422,Brenau University
+2026,142276,422,Idaho State University
+2026,149514,422,Trinity International University
+2026,104717,425,Grand Canyon University
+2026,243601,425,Universidad Ana G. Mendez--Gurabo Campus
+2026,100724,427,Alabama State University
+2026,226091,427,Lamar University
+2026,160621,429,Southern University and A&M College
+2026,220552,430,South College
+2026,229160,431,Texas Wesleyan University
+2026,229063,432,Texas Southern University
+2026,131113,433,Wilmington University
+2026,126827,434,Colorado Technical University

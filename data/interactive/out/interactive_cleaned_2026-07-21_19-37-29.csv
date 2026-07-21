@@ -1,0 +1,5 @@
+issue_year,name,ipeds_id,school_id,%_of_faculty_who_are_full_time_rank*,borrower_debt_rank*,faculty_salary_rank*,financial_resources_rank*,first_year_retention_rate_rank*,graduation_rate_performance_rank*,graduation_rate_rank*,peer_assessment_rank*,pell_grant_graduation_performance_rank*,pell_grant_graduation_rate_rank*,standardized_tests_rank*,student_to_faculty_ratio_rank*
+2020,University of Virginia,234076,6968,6.0,,33.0,47.0,16.0,246.0,10.0,22.0,293.0,353.0,31.0,171.0
+2021,University of Virginia,234076,6968,7.0,58.0,32.0,44.0,14.0,233.0,10.0,18.0,272.0,350.0,31.0,150.0
+2022,University of Virginia,234076,6968,8.0,53.0,30.0,41.0,7.0,219.0,10.0,19.0,258.0,329.0,29.0,144.0
+2023,University of Virginia,234076,6968,4.0,54.0,26.0,44.0,12.0,257.0,16.0,19.0,328.0,393.0,20.0,210.0
